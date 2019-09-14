@@ -25,3 +25,5 @@ Given the dataset of VirginAirline tweets, i will do the following:
 Part 2: Feedback
 =================
 A challenge to evaluate your ability to review & debug student code while providing them with relevant feedback.
+
+[My Solution] I put a Markdown cell called "Instructor Note", whenever i have a note or comments about the student code. you can use it to search and find all my comments in the file "Instructor Note".
